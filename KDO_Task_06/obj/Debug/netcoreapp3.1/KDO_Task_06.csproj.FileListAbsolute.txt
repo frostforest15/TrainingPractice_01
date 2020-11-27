@@ -1,0 +1,13 @@
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.exe
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.deps.json
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.runtimeconfig.json
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.runtimeconfig.dev.json
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.dll
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\bin\Debug\netcoreapp3.1\KDO_Task_06.pdb
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.AssemblyInfoInputs.cache
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.AssemblyInfo.cs
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.csproj.CoreCompileInputs.cache
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.dll
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.pdb
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.genruntimeconfig.cache
+C:\Users\79818\source\repos\TrainingPractice_01\KDO_Task_06\obj\Debug\netcoreapp3.1\KDO_Task_06.csprojAssemblyReference.cache
